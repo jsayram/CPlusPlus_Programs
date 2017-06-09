@@ -1,0 +1,4 @@
+Smith	Joe		1274	4.50
+Thomas	Fred	4578	123.67
+Gates Bill 		9782	0.43
+Hilton Paris	2934	1432345.90
